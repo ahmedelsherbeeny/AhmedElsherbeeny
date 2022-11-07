@@ -1,5 +1,5 @@
 <h1 align='center'>Hello 👋, I am Ahmed Elsherbeeny</h1>
-<h3>I am a software engineer with a passion for programming and in particular web development</h3>
+<h3>I am a software engineer | frontend angular developer with a passion for programming and in particular web development</h3>
 
 
 <h3 align="left">I am active here: </h3>
